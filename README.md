@@ -7,7 +7,7 @@
 
 <br />
 
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=danilloestrela&theme=dracula" alt="danilloestrela" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=danilloestrela&count_private=true&theme=dracula" alt="danilloestrela" /></div>
 
 <br />
 
