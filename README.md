@@ -7,10 +7,3 @@
 <br />
 
 <div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=danilloestrela&count_private=true&theme=dracula" alt="danilloestrela" /></div>
-
-<br />
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloestrela&langs_count=8&count_private=true&layout=compact" />
-</div>
-
